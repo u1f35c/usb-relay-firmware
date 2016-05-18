@@ -1,0 +1,4 @@
+*.o
+.*.swp
+main.elf
+main.hex
